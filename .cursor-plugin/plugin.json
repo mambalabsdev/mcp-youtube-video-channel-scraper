@@ -1,0 +1,31 @@
+{
+  "name": "mcp-youtube-video-channel-scraper",
+  "displayName": "YouTube Video and Channel Scraper",
+  "version": "1.0.0",
+  "description": "MCP server for YouTube Video and Channel Scraper. Channels, playlists, and search lists as flat rows. No YouTube login needed. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-youtube-video-channel-scraper",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "youtube",
+    "videos",
+    "channels",
+    "playlists",
+    "search"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "youtube",
+    "videos",
+    "channels",
+    "playlists",
+    "search"
+  ],
+  "mcpServers": ".mcp.json"
+}
