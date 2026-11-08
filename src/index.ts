@@ -205,7 +205,7 @@ const server = new McpServer({
   version: pkg.version,
 });
 
-// YouTube Video and Channel Scraper (immutable actor ID txaAjeBqgj5MStFE4). Every buyer facing input of the actor is exposed.
+// YouTube Channel and Video List Scraper (immutable actor ID txaAjeBqgj5MStFE4). Every buyer facing input of the actor is exposed.
 server.registerTool(
   "scrape_youtube_videos_channels",
   {
@@ -228,7 +228,7 @@ server.registerTool(
       max_charge_usd: z.string().optional().describe("Optional. The run stops before a charge that would pass this amount. Reports are always delivered."),
     },
   },
-  async (args) => runActor("txaAjeBqgj5MStFE4", "YouTube Video and Channel Scraper", asActorInput(args as Record<string, unknown>)),
+  async (args) => runActor("txaAjeBqgj5MStFE4", "YouTube Channel and Video List Scraper", asActorInput(args as Record<string, unknown>)),
 );
 
 const transport = new StdioServerTransport();

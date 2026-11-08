@@ -2,7 +2,7 @@
   "manifest_version": "0.3",
   "name": "mcp-youtube-video-channel-scraper",
   "version": "1.0.0",
-  "description": "MCP server for YouTube Video and Channel Scraper. Channels, playlists, and search lists as flat rows. No YouTube login needed. Runs on Apify. Clay-ready output.",
+  "description": "MCP server for YouTube Channel and Video List Scraper. Channels, playlists, and search lists as flat rows. No YouTube login needed. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs"
   },

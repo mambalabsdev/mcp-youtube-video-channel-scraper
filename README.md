@@ -1,8 +1,8 @@
-# YouTube Video and Channel Scraper MCP Server
+# YouTube Channel and Video List Scraper MCP Server
 
 [![npm version](https://img.shields.io/npm/v/@mambalabsdev/mcp-youtube-video-channel-scraper)](https://www.npmjs.com/package/@mambalabsdev/mcp-youtube-video-channel-scraper) [![license](https://img.shields.io/github/license/mambalabsdev/mcp-youtube-video-channel-scraper)](https://github.com/mambalabsdev/mcp-youtube-video-channel-scraper/blob/main/LICENSE)
 
-An MCP server for the Mamba Labs YouTube Video and Channel Scraper actor on Apify. Scrape public YouTube channels, playlists, and search lists as flat rows.
+An MCP server for the Mamba Labs YouTube Channel and Video List Scraper actor on Apify. Scrape public YouTube channels, playlists, and search lists as flat rows.
 
 ## What's Inside
 
