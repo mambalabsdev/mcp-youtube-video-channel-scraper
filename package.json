@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-youtube-video-channel-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for YouTube Channel and Video List Scraper. Channels, playlists, and search lists as flat rows. No YouTube login needed. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
